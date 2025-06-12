@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Spring Seasonal Recipes Released",
+    "date": "2025-05-01",
+    "category": "Seasonal",
+    "content": "Discover fresh and healthy recipes perfect for springtime using seasonal produce."
+  },
+  {
+    "id": 2,
+    "title": "Top 5 Vegan Recipes of the Month",
+    "date": "2025-05-10",
+    "category": "Vegan",
+    "content": "Explore the most popular vegan dishes trending this month that everyone loves."
+  },
+  {
+    "id": 3,
+    "title": "How to Make Perfect Sourdough Bread",
+    "date": "2025-04-28",
+    "category": "Baking",
+    "content": "Step-by-step guide on baking sourdough bread with crispy crust and soft interior."
+  },
+  {
+    "id": 4,
+    "title": "Quick Weeknight Dinner Ideas",
+    "date": "2025-05-15",
+    "category": "Dinner",
+    "content": "Simple and tasty recipes you can prepare in under 30 minutes on busy evenings."
+  },
+  {
+    "id": 5,
+    "title": "Health Benefits of Mediterranean Diet",
+    "date": "2025-05-12",
+    "category": "Health",
+    "content": "Learn why the Mediterranean diet is praised for its heart-healthy benefits."
+  },
+  {
+    "id": 6,
+    "title": "Cooking with Exotic Spices",
+    "date": "2025-05-18",
+    "category": "Cooking Tips",
+    "content": "Add flavor and excitement to your meals with these exotic spice blends."
+  },
+  {
+    "id": 7,
+    "title": "10 Must-Have Kitchen Gadgets for Home Cooks",
+    "date": "2025-05-20",
+    "category": "Kitchen",
+    "content": "Upgrade your cooking game with these affordable and useful kitchen tools."
+  },
+  {
+    "id": 8,
+    "title": "Exploring Street Food from Around the World",
+    "date": "2025-05-22",
+    "category": "World Cuisine",
+    "content": "Take a virtual culinary tour with popular street foods from Asia, Europe, and the Americas."
+  },
+  {
+    "id": 9,
+    "title": "Fermentation 101: Benefits and How to Start",
+    "date": "2025-05-25",
+    "category": "Health",
+    "content": "Learn about gut-friendly fermented foods and how to make your own at home."
+  },
+  {
+    "id": 10,
+    "title": "Top Food Trends of 2025 So Far",
+    "date": "2025-05-26",
+    "category": "Trends",
+    "content": "From mushroom coffee to plant-based meats, see what’s hot in the food world."
+  },
+  {
+    "id": 11,
+    "title": "Understanding Umami: The Fifth Taste Explained",
+    "date": "2025-05-27",
+    "category": "Cooking Tips",
+    "content": "What is umami, and how can you bring out this savory flavor in your dishes?"
+  },
+  {
+    "id": 12,
+    "title": "Gluten-Free Baking Basics for Beginners",
+    "date": "2025-05-28",
+    "category": "Baking",
+    "content": "Get started with gluten-free flours, tips, and foolproof recipes."
+  },
+  {
+    "id": 13,
+    "title": "How to Build a Balanced Meal with Macros",
+    "date": "2025-05-29",
+    "category": "Health",
+    "content": "Break down the basics of proteins, fats, and carbs for smarter meal planning."
+  },
+  {
+    "id": 14,
+    "title": "Cooking on a Budget: Meals Under $10",
+    "date": "2025-05-30",
+    "category": "Budget",
+    "content": "Save money without sacrificing taste—great meals you can make for cheap."
+  },
+  {
+    "id": 15,
+    "title": "The Secret to Crispy Fried Chicken",
+    "date": "2025-06-01",
+    "category": "Cooking Tips",
+    "content": "Master the coating, oil temp, and techniques for the perfect crunch."
+  },
+  {
+    "id": 16,
+    "title": "How to Pair Wine with Everyday Dishes",
+    "date": "2025-06-03",
+    "category": "Lifestyle",
+    "content": "From pasta to burgers, discover wine pairings that elevate your meals."
+  },
+  {
+    "id": 17,
+    "title": "Meal Prepping for Busy Weekdays",
+    "date": "2025-06-04",
+    "category": "Planning",
+    "content": "Prep like a pro and make your weekday meals stress-free and nutritious."
+  },
+  {
+    "id": 18,
+    "title": "Grilling Tips for Summer BBQ Success",
+    "date": "2025-06-05",
+    "category": "Seasonal",
+    "content": "Essential tips and recipes to become the grill master this summer."
+  },
+  {
+    "id": 19,
+    "title": "Delicious Dairy-Free Dessert Recipes",
+    "date": "2025-06-06",
+    "category": "Desserts",
+    "content": "Sweet treats for those avoiding dairy—easy and indulgent recipes."
+  },
+  {
+    "id": 20,
+    "title": "5 Foods You Didn’t Know Could Be Pickled",
+    "date": "2025-06-07",
+    "category": "Food Facts",
+    "content": "Expand your pickling game with unexpected ingredients that taste amazing."
+  }
+]

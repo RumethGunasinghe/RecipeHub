@@ -1,0 +1,141 @@
+[
+  {
+  "id": 9,
+  "title": "Japanese Curry",
+  "cuisine": "Japanese",
+  "dietary": ["Dairy-Free"],
+  "ingredients": [
+    "chicken thighs",
+    "potatoes",
+    "carrots",
+    "onions",
+    "garlic",
+    "ginger",
+    "curry roux blocks",
+    "soy sauce",
+    "apple",
+    "water",
+    "oil"
+  ],
+  "instructions": "Brown chicken in oil. Add onions, garlic, ginger, and cook until soft. Add potatoes and carrots. Pour in water and bring to boil. Simmer until vegetables are tender. Stir in curry roux and grated apple. Simmer until thick.",
+  "description": "A comforting Japanese curry with tender meat and vegetables in a sweet-savory sauce.",
+  "approved": true,
+  "submittedBy": "admin"
+  },
+  {
+  "id": 8,
+  "title": "Vegetarian Chilli",
+  "cuisine": "Mexican",
+  "dietary": ["Vegan", "Gluten-Free"],
+  "ingredients": [
+    "kidney beans",
+    "black beans",
+    "onions",
+    "garlic",
+    "capsicum",
+    "tomatoes",
+    "chilli powder",
+    "cumin",
+    "paprika",
+    "olive oil",
+    "corn"
+  ],
+  "instructions": "Sauté onions, garlic, and capsicum. Add beans, tomatoes, corn, and spices. Simmer until thickened. Adjust seasoning to taste. Serve with rice or tortilla chips.",
+  "description": "A bold and smoky chilli packed with beans and vegetables.",
+  "approved": true,
+  "submittedBy": "admin"
+  },
+  {
+  "id": 7,
+  "title": "Duck Ragu with Parmesan Gnocchi",
+  "cuisine": "Italian",
+  "dietary": [],
+  "ingredients": [
+    "duck legs",
+    "onions",
+    "garlic",
+    "carrots",
+    "celery",
+    "tomato paste",
+    "red wine",
+    "chicken stock",
+    "bay leaves",
+    "thyme",
+    "potatoes",
+    "parmesan cheese",
+    "flour",
+    "egg"
+  ],
+  "instructions": "Slow-cook duck legs with vegetables, tomato paste, red wine, and stock until tender. Shred meat. Make gnocchi by combining mashed potatoes, flour, egg, and parmesan. Boil gnocchi, then serve with the rich duck ragu.",
+  "description": "A hearty slow-cooked duck ragu served over soft parmesan gnocchi.",
+  "approved": true,
+  "submittedBy": "admin"
+  },
+
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "cuisine": "Italian",
+    "dietary": ["Gluten-Free"],
+    "ingredients": ["spaghetti", "egg", "parmesan cheese", "bacon"],
+    "instructions": "Cook spaghetti\nFry bacon\nMix eggs and parmesan\nCombine all with pasta off heat to avoid scrambling eggs",
+    "description": "Classic Italian pasta dish",
+    "approved": true,
+    "submittedBy": "admin"
+  },
+  {
+    "id": 2,
+    "title": "Veggie Tacos",
+    "cuisine": "Mexican",
+    "dietary": ["Vegan", "Gluten-Free"],
+    "ingredients": ["tortillas", "black beans", "avocado", "tomato"],
+    "instructions": "Warm tortillas\nPrepare veggie filling with beans, avocado, tomato\nAssemble tacos",
+    "description": "Delicious Mexican tacos with veggies",
+    "approved": true,
+    "submittedBy": "admin"
+  },
+  {
+    "id": 3,
+    "title": "Chicken Curry",
+    "cuisine": "Indian",
+    "dietary": ["Dairy-Free"],
+    "ingredients": ["chicken", "curry powder", "coconut milk", "onions", "garlic"],
+    "instructions": "Sauté onions and garlic\nAdd chicken and curry powder\nSimmer with coconut milk until cooked",
+    "description": "Spicy and creamy chicken curry",
+    "approved": true,
+    "submittedBy": "admin"
+  },
+  {
+    "id": 4,
+    "title": "Quinoa Salad",
+    "cuisine": "Mediterranean",
+    "dietary": ["Vegan", "Gluten-Free"],
+    "ingredients": ["quinoa", "cucumber", "tomatoes", "olive oil", "lemon juice"],
+    "instructions": "Cook quinoa\nChop veggies\nMix all with olive oil and lemon juice",
+    "description": "Healthy quinoa salad with veggies",
+    "approved": true,
+    "submittedBy": "admin"
+  },
+  {
+    "id": 5,
+    "title": "Beef Stroganoff",
+    "cuisine": "Russian",
+    "dietary": [],
+    "ingredients": ["beef", "mushrooms", "sour cream", "onions", "butter"],
+    "instructions": "Cook beef and onions\nAdd mushrooms and sour cream\nSimmer until sauce thickens",
+    "description": "Classic Russian beef stroganoff",
+    "approved": true,
+    "submittedBy": "admin"
+  },
+  {
+    "id": 6,
+    "title": "Pancakes",
+    "cuisine": "American",
+    "dietary": ["Vegetarian"],
+    "ingredients": ["flour", "milk", "egg", "baking powder", "sugar"],
+    "instructions": "Mix ingredients\nPour batter on griddle\nCook until golden brown on both sides",
+    "description": "Fluffy homemade pancakes",
+    "approved": true,
+    "submittedBy": "admin"
+  }
+]
